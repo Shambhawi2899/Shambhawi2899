@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shambhawi2899
 - 👀 I’m interested in competetive coding.
 - 🌱 I’m currently learning data analysis and algorithm.
-- 💞️ I’m looking to collaborate with exciting enthisiast.
+- 💞️ I’m looking to collaborate with exciting enthusiasts.
 - 📫 How to reach me kshambhawi2312@gmail.com(email)
 
 <!---
